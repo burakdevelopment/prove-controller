@@ -1,0 +1,4 @@
+PyQt6>=6.5
+pymavlink>=2.4.27
+pyserial>=3.5
+pygame>=2.1
